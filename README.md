@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hola! Soy Maria Elena Martinez Escudero</h1>  
 
-<!--
-**MartinezMariaE/MartinezMariaE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:raising_hand: Soy estudiante en la UMET, de la carrera de Licenciatura en Informatica :woman_technologist:
 
-Here are some ideas to get you started:
+:point_right: Objetivo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      *Compartir mis avances 
+      *Compartir otras posibles solucione
+      *Aprender y aceptar criticas
+      *Desarrolar cada vez mejores y más codigos
+
+
+:green_circle: _*_Aquí podrá encontrar los ejercicios con los cuales trabajo, principalmente enfocado, en el repositorio de
+[Python Para Principiantes](https://github.com/MariaElena-Martinez/Python-Para-Principiantes-)_*_
+
